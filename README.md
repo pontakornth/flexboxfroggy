@@ -1,6 +1,8 @@
 Flexbox Froggy
 =======
 
+*This repository is forked for Thai translation. Pull requests to translate this are welcome.*
+
 Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](https://flexboxfroggy.com).
 
 Read [this blog post](https://thomaspark.co/2015/11/learning-css-layout-with-flexbox-froggy/) for background on the project.
